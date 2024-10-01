@@ -1,3 +1,3 @@
 # Simple Contact
 
-This is my personal website. It's a static site for links and contact information.
+This is a static holder for a contact form connected to some domains I am developing.
